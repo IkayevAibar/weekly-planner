@@ -99,7 +99,12 @@ i18n
       },
     },
     fallbackLng: "en", // Английский язык по умолчанию
+    lng: "en",
     debug: true,
+    detection: {
+        order: ["querystring", "localStorage", "navigator"], // Порядок определения языка
+        caches: ["localStorage"], // Кэширование языка
+    },
     interpolation: {
       escapeValue: false, // React уже экранирует строки
     },
