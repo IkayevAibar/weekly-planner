@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Demo site
+## Demo site in Firebase
 
 [discipline-github-io.web.app](https://discipline-github-io.web.app/ "https://discipline-github-io.web.app/")
 
