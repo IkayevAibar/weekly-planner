@@ -99,7 +99,7 @@ i18n
       },
     },
     fallbackLng: "en", // Английский язык по умолчанию
-    lng: "en",
+    // lng: "en",
     debug: true,
     detection: {
         order: ["querystring", "localStorage", "navigator"], // Порядок определения языка
